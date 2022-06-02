@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Nicolas Maceira
-- 👀 I’m interested in Automation Development and Web development (Angular)
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Test Automation Development
+- 🌱 I’m currently learning QAOps
 - 📫 Contact me at lucas.maceira90@gmail.com
 
 <!---
