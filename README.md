@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Nicolas Maceira
 - 👀 I’m interested in Test Automation Development
-- 🌱 I’m currently learning Cypress. And I'm curious about frontend frameworks...
+- 🌱 I’m constantly learning new things about Cypress.
 - 📫 Contact me at lucas.maceira90@gmail.com
 
 <!---
